@@ -1,3 +1,7 @@
+## License & Rights
+
+This is a university project developed by four people and all the code rights are reserved for Tampere University i will update the content soon...
+
 # NaviNord Game Project
 
 NaviNord Game Project is a Unity-based virtual reality game project created for the Software Engineering Project course 610-620, Spring 2026. 
